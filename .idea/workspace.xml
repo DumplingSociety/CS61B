@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d98e8f94-aaaf-4035-b318-466853a59032" name="Changes" comment="added hw0">
-      <change afterPath="$PROJECT_DIR$/proj0/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proj0/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proj0/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
